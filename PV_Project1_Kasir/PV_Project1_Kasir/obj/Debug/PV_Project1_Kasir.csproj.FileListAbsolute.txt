@@ -1,0 +1,7 @@
+D:\C#\tugas\PV_Project1_Kasir\PV_Project1_Kasir\bin\Debug\PV_Project1_Kasir.exe
+D:\C#\tugas\PV_Project1_Kasir\PV_Project1_Kasir\bin\Debug\PV_Project1_Kasir.pdb
+D:\C#\tugas\PV_Project1_Kasir\PV_Project1_Kasir\obj\Debug\PV_Project1_Kasir.csprojResolveAssemblyReference.cache
+D:\C#\tugas\PV_Project1_Kasir\PV_Project1_Kasir\obj\Debug\PV_Project1_Kasir.MainForm.resources
+D:\C#\tugas\PV_Project1_Kasir\PV_Project1_Kasir\obj\Debug\PV_Project1_Kasir.csproj.GenerateResource.Cache
+D:\C#\tugas\PV_Project1_Kasir\PV_Project1_Kasir\obj\Debug\PV_Project1_Kasir.exe
+D:\C#\tugas\PV_Project1_Kasir\PV_Project1_Kasir\obj\Debug\PV_Project1_Kasir.pdb
