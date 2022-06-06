@@ -1,0 +1,11 @@
+D:\C#\tugas\PV_Project2_RS\PV_Project2_RS\obj\Debug\PV_Project2_RS.csprojResolveAssemblyReference.cache
+D:\C#\tugas\PV_Project2_RS\PV_Project2_RS\obj\Debug\PV_Project2_RS.MainForm.resources
+D:\C#\tugas\PV_Project2_RS\PV_Project2_RS\obj\Debug\PV_Project2_RS.csproj.GenerateResource.Cache
+D:\C#\tugas\PV_Project2_RS\PV_Project2_RS\bin\Debug\PV_Project2_RS.exe
+D:\C#\tugas\PV_Project2_RS\PV_Project2_RS\bin\Debug\PV_Project2_RS.pdb
+D:\C#\tugas\PV_Project2_RS\PV_Project2_RS\obj\Debug\PV_Project2_RS.exe
+D:\C#\tugas\PV_Project2_RS\PV_Project2_RS\obj\Debug\PV_Project2_RS.pdb
+D:\C#\tugas\PV_Project2_RS\PV_Project2_RS\obj\Debug\PV_Project2_RS.Home.resources
+D:\C#\tugas\PV_Project2_RS\PV_Project2_RS\obj\Debug\PV_Project2_RS.data_pasien.resources
+D:\C#\tugas\PV_Project2_RS\PV_Project2_RS\obj\Debug\PV_Project2_RS.data_obat.resources
+D:\C#\tugas\PV_Project2_RS\PV_Project2_RS\obj\Debug\PV_Project2_RS.data_dokter.resources
