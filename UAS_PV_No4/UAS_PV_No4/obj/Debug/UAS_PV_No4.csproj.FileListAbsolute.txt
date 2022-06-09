@@ -1,0 +1,7 @@
+D:\C#\tugas\UAS_PV_No4\UAS_PV_No4\bin\Debug\UAS_PV_No4.exe
+D:\C#\tugas\UAS_PV_No4\UAS_PV_No4\bin\Debug\UAS_PV_No4.pdb
+D:\C#\tugas\UAS_PV_No4\UAS_PV_No4\obj\Debug\UAS_PV_No4.csprojResolveAssemblyReference.cache
+D:\C#\tugas\UAS_PV_No4\UAS_PV_No4\obj\Debug\UAS_PV_No4.MainForm.resources
+D:\C#\tugas\UAS_PV_No4\UAS_PV_No4\obj\Debug\UAS_PV_No4.csproj.GenerateResource.Cache
+D:\C#\tugas\UAS_PV_No4\UAS_PV_No4\obj\Debug\UAS_PV_No4.exe
+D:\C#\tugas\UAS_PV_No4\UAS_PV_No4\obj\Debug\UAS_PV_No4.pdb
